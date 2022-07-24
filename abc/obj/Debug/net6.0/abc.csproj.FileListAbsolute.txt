@@ -1,0 +1,15 @@
+C:\Users\Eimyf\source\repos\abc\abc\bin\Debug\net6.0\abc.exe
+C:\Users\Eimyf\source\repos\abc\abc\bin\Debug\net6.0\abc.deps.json
+C:\Users\Eimyf\source\repos\abc\abc\bin\Debug\net6.0\abc.runtimeconfig.json
+C:\Users\Eimyf\source\repos\abc\abc\bin\Debug\net6.0\abc.dll
+C:\Users\Eimyf\source\repos\abc\abc\bin\Debug\net6.0\abc.pdb
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.csproj.AssemblyReference.cache
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.AssemblyInfoInputs.cache
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.AssemblyInfo.cs
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.csproj.CoreCompileInputs.cache
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.dll
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\refint\abc.dll
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.pdb
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\abc.genruntimeconfig.cache
+C:\Users\Eimyf\source\repos\abc\abc\obj\Debug\net6.0\ref\abc.dll
